@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **my Blog 🤙**
 
-- 👨‍💻 All of my projects are available at [https://portafolio.app/](https://portafolio.app/)
+- 👨‍💻 All of my projects are available at [https://yonathansoto.tk/](https://yonathansoto.tk/)
 
 - 📝 I regularly write articles on [medium](medium)
 
