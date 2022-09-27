@@ -11,15 +11,15 @@
 ## Glad to see you here!  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PatrickCuentas.visitor-badge&left_text=My%20Page%20Visitors)
 
 
-- 🔭 I’m currently working on **AudioPhile Web App**
+- 🔭 I’m currently working on **Django Rest Framework and ReactJS for Web App**
 
-- 🌱 I’m currently learning **Java with BDD,TDD and E2E**
+- 🌱 I’m currently learning **Golang with fiber,FastApi and alembic whith sqlalchemy**
 
 - 👯 I’m looking to collaborate on **FrontEnd and BackEnd WebApps and UX Design Process**
 
 - 🤝 I’m looking for help with **my Blog 🤙**
 
-- 👨‍💻 All of my projects are available at [https://portafolio.app/](https://portafolio.app/)
+- 👨‍💻 All of my projects are available at [https://yonathansotoa.tk/](https://yonathansoto.tk/)
 
 - 📝 I regularly write articles on [medium](medium)
 
