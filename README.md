@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **FrontEnd and BackEnd WebApps and UX Design Process**
 
-- 🤝 I’m looking for help with **my Blog 🤙**
+- 🤝 I’m gitflow strategies and agile methodologies🤙**
 
 - 👨‍💻 All of my projects are available at [https://yonathansoto.tk/](https://yonathansoto.tk/)
 
