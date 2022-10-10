@@ -8,7 +8,7 @@
 
 
 
-## Glad to see you here!  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PatrickCuentas.visitor-badge&left_text=My%20Page%20Visitors)
+## Glad to see you here!
 
 
 - 🔭 I’m currently working on **Django Rest Framework and ReactJS for Web App**
