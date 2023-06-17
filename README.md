@@ -19,13 +19,13 @@
 
 - 🤝 I’m gitflow strategies and agile methodologies🤙**
 
-- 👨‍💻 All of my projects are available at [https://yonathansoto.tk/](https://yonathansoto.tk/)
+- 👨‍💻 All of my projects are available at [https://yotodev.com/](https://yotodev.com/)
 
 - 🐧 I’m a fan of **GNU LINUX** Server and Desktop Environments.
 
 - 💬 Ask me about **IT**
 
-- 📫 How to reach me **yotoelectronics@gmail.com**
+- 📫 How to reach me **contact@yotodev.com**
 
 - ⚡ Fun fact **NGINX and Docker for all 😅**
 
